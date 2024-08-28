@@ -21,8 +21,8 @@ body{
 }
 
 .content {
-    width: 80%;
     background: yellow;
+    width: 80%;
     float: right;
 }
 .side-1 {
@@ -34,8 +34,6 @@ body{
     background: green;
     width: 20%;
     float: left;
-
-
 }
 
 .imgFloat{
